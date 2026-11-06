@@ -1,0 +1,6 @@
+sweep/
+env/
+__pycache__/
+*.pyc
+*.db
+test.json
